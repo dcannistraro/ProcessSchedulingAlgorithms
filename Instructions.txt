@@ -1,0 +1,5 @@
+1. Grab Snack
+2. Launch GanttChart.exe in build folder
+3. Follow console instructions
+4. Gape mouth with amazement
+5. Experience Gantt Chart visuals with Elephant background
